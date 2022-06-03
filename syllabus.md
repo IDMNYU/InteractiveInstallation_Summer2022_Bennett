@@ -1,7 +1,7 @@
 # Interactive Installation 
 
 * **DM-UY 9103-A Special Topics:Interactive Installation**
-* **Summer 2022: 7/7-8/17 2022
+* **Summer 2022: 7/7-8/17 2022**
 * **Tues 7 Thurs 11:00 – 14:20**
 * **370 Jay Street Room 410**
 * **Professor: Katherine Bennett**
